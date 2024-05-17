@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Fate by Enhypen"];
+const statusMessages = ["shop @ /nwjs !"];
 
 
 let currentIndex = 0;
