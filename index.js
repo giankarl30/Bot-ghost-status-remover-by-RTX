@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["aegyo ; icns"];
+const statusMessages = ["/ mist"];
 
 
 let currentIndex = 0;
