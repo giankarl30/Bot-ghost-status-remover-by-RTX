@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["/ mist"];
+const statusMessages = ["happy shopping!~", "shop @ aera"];
 
 
 let currentIndex = 0;
